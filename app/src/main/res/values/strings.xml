@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VALA</string>
+    <string name="speaker">Speaker</string>
+    <string name="settings">Settings</string>
+    <string name="app_fname">Voice Activated Locater App</string>
+    <string name="RecordedP">Recorded Phrase</string>
+    <string name="upload_or_change">Play</string>
+    <string name="play">Play</string>
+    <string name="recordtone">Record new phrase</string>
+    <string name="song">Song to play</string>
+    <string name="newsong">Choose new song</string>
+    <string name="pause">Pause</string>
+    <string name="stopSong">Stop</string>
+</resources>

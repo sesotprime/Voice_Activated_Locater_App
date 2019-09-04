@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lightCyan">#00bcd4</color>
+    <color name="blue">#1976d2</color>
+    <color name="white">#ffffff</color>
+    <color name="shinRed">#ff1744</color>
+    <color name="shinBrightRed">#f44336</color>
+    <color name="deepRed">#c4001d</color>
+    <color name="shinGreen">#00c853</color>
+    <color name="shinYellow">#fefc82</color>
+    <color name="shinLightGreen">#5efc82</color>
+    <color name="shinBlue">#1a237e</color>
+    <color name="indigo">#4b0082</color>
+    <color name="purpleHaze">#5d4e64</color>
+    <color name="black">#000000</color>
+</resources>
